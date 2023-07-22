@@ -10,6 +10,9 @@ This project explore data related to bike share systems for three major cities i
 ### Files used
 bikeshare.py
 
+### Python version
+The code in bikeshare.py was tested with Python 3.10
+
 ### Credits
 * Udacity https://www.udacity.com/
 * Pandas https://pandas.pydata.org/
