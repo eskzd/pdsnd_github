@@ -14,7 +14,6 @@ MONTH_DATA = {'0': 'all',
               '5': 'may',
               '6': 'june'}
 
-
 # dictionary with available days
 DAYS_DATA = {'0': 'all',
              '1': 'monday',
@@ -24,7 +23,6 @@ DAYS_DATA = {'0': 'all',
              '5': 'friday',
              '6': 'saturday',
              '7': 'sunday'}
-
 
 welcome_message = '''
                                            $"   *.
