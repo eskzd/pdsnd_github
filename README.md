@@ -11,7 +11,7 @@ This project explore data related to bike share systems for three major cities i
 bikeshare.py
 
 ### Credits
-Udacity https://www.udacity.com/
-Pandas https://pandas.pydata.org/
-Stackoverflow https://stackoverflow.com/
-Christopher Johnson's ASCII Art Collection https://asciiart.website/index.php
+* Udacity https://www.udacity.com/
+* Pandas https://pandas.pydata.org/
+* Stackoverflow https://stackoverflow.com/
+* Christopher Johnson's ASCII Art Collection https://asciiart.website/index.php
